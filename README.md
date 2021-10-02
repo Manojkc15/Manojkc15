@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Love playing cricket 🏏
-
 <!-- <h3>📫 Connect with me :</h3> -->
 
 <h3>📊 Github Stats </h3><br>
