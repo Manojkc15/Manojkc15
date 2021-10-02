@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source Projects
-- ⚡ Love playing cricket 🏏 
+- ⚡ Love playing cricket 🏏
+
+📫 <h3>Connect with me:</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manojkc15&theme=radical)](https://git.io/streak-stats)
 
