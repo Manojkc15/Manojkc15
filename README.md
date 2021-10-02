@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Love playing cricket 🏏
-<h3>📫 Connect with me :</h3>
+<!-- <h3>📫 Connect with me :</h3>
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 Languages and Tools:
 
