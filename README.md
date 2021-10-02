@@ -1,4 +1,4 @@
-### Hi there, I'm Manoj Kumar C 👋
+<center>### Hi there, I'm Manoj Kumar C 👋</center>
 
 ![](https://komarev.com/ghpvc/?username=Manojkc15)
 
