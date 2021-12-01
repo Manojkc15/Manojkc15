@@ -16,7 +16,7 @@
 <h3>📊 Github Stats </h3><br>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manojkc15&theme=radical)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manojkc15&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manojkc15&theme=radical)](https://git.io/streak-stats)
 
 ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manojkc15&show_icons=true&theme=radical)
 
