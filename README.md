@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m a Flutter Developer
 - 👯 I’m looking to collaborate on Open Source Projects
 - ⚡ Love playing cricket 🏏
 <!-- <h3>📫 Connect with me :</h3>
