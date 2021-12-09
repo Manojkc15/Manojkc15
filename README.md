@@ -1,4 +1,4 @@
-<center><h1>Hi there 👋, <b>I'm Manoj Kumar C</b></h1></center>
+<center><h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, <b>I'm Manoj Kumar C</b></h1></center>
 
 ![](https://komarev.com/ghpvc/?username=Manojkc15)
 
